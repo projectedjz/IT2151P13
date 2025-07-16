@@ -11,3 +11,4 @@ My TO-DO List
 10. Complete the course
 11. Get certified
 12. Apply for new IT job
+Having fun with GIT!
